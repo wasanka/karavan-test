@@ -1,4 +1,6 @@
 {
   "name": "Java",
-  "build": { "dockerfile": "Dockerfile" }
+  "build": { 
+    "dockerfile": "Dockerfile" 
+  }
 }
